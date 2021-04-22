@@ -1,12 +1,12 @@
 {
-  "name": "Json-to-env",
+  "name": "json-to-env",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/parthpanchal123/Json-to-env.git",
   "author": "Parth Panchal <parthpanchal53@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start":"node src/index.js"
+    "start":"node index.js"
   },
   "dependencies": {
     "inquirer": "^8.0.0"
