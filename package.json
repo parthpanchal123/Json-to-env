@@ -1,6 +1,6 @@
 {
   "name": "convert-json-to-env",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "repository": "https://github.com/parthpanchal123/Json-to-env.git",
   "author": "Parth Panchal <parthpanchal53@gmail.com>",
