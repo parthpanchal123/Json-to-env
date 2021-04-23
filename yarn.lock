@@ -58,6 +58,14 @@ color-name@~1.1.4:
   resolved "https://registry.yarnpkg.com/color-name/-/color-name-1.1.4.tgz#c2a09a87acbde69543de6f63fa3995c826c536a2"
   integrity sha512-dOy+3AuW3a2wNbZHIuMZpTcgjGuLU/uBL/ubcZF9OXbDo8ff4O8yVp5Bf0efS8uEoYo5q4Fx7dY9OgQGXgAsQA==
 
+convert-json-to-env@^1.0.0, convert-json-to-env@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/convert-json-to-env/-/convert-json-to-env-1.0.1.tgz#717d80230c4158eb41ac277eab0d0c32f169dec0"
+  integrity sha512-CXb2YnWoFD5rj/eIwZZiLIsCBsDg/z57yhiuhdcXpTNaasTPork8MyZZi4N9RnMYIhn/S9XbivwJBKd2synDFw==
+  dependencies:
+    convert-json-to-env "^1.0.0"
+    inquirer "^8.0.0"
+
 emoji-regex@^8.0.0:
   version "8.0.0"
   resolved "https://registry.yarnpkg.com/emoji-regex/-/emoji-regex-8.0.0.tgz#e818fd69ce5ccfcb404594f842963bf53164cc37"
