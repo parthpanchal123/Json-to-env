@@ -1,5 +1,5 @@
 
-# convert-json-to-env v1.0.1
+# convert-json-to-env v1.0.2
 
 Convert any json config file (Firebase config ,GCP config ...) from this :
 
